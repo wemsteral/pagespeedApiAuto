@@ -7,7 +7,7 @@ var urls = ["https://www.google.com", "https://www.ebay.com"];
 var tabs = ["google", "ebay"];
 //EXAMPLES
 
-// URLS & TABS MUST BE ALIGNED, EQUAL AND IN SAME ORDER.
+// URLS & TABS MUST BE EQUAL AND IN SAME ORDER.
 
 function monitor() {
   for (i = 0; i < urls.length; i++) {
