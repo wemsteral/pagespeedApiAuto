@@ -9,11 +9,12 @@
 
    - ![ss1](https://github.com/wemsteral/pagespeedApiAuto/blob/master/ss1.png)
 
-   (in quotations and separated with commas)
+   _(in quotations and separated with commas)_
 
 7. Add a corresponding tab for each URL in the spreadsheet and update the tabs array, as per same style again.
    - ![ss2](https://github.com/wemsteral/pagespeedApiAuto/blob/master/ss1.png)
-     Note:
+
+Note:
 
 - These need to correspond exactly with the name of the tabs in the spreadsheet (case sensitive etc.)
 - The urls & tabs arrays need to be in the same order and have same amount of items.
