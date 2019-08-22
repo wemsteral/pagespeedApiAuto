@@ -1,4 +1,4 @@
-# An automated script for use with a Google sheet
+# A script for use with Google sheets to automate the retrieval of website metrics via Google PageSpeed API
 
 1. Get your API key from https://developers.google.com/speed/docs/insights/v5/get-started
 2. Set up a new google sheet under any name
