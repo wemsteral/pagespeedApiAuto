@@ -18,8 +18,8 @@ function monitor() {
     sheet.appendRow([
       Utilities.formatDate(new Date(), "GMT", "yyyy-MM-dd"),
       desktop.id,
-      mobile.id,
-      desktop
+      mobile.id
+      // EXAMPLE METRICS, CHOOSE WHICHEVER YOU NEED FROM OBJECT
     ]);
   }
 }
