@@ -7,7 +7,9 @@
 5. Copy and paste your API key `var pageSpeedApiKey =`'_HERE_`';`
 6. Remove the existing URLs in the `urls` array and add yours as per the style:
    ![ss1](https://github.com/wemsteral/pagespeedApiAuto/blob/master/ss1.png)
+
    (in quotations and separated with commas)
+
 7. Add a corresponding tab for each URL in the spreadsheet and update the tabs array, as per same style again.
    ![ss2](https://github.com/wemsteral/pagespeedApiAuto/blob/master/ss1.png)
    Note:
